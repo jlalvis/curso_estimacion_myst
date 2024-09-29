@@ -1,0 +1,18 @@
+# See docs at: https://mystmd.org/guide/frontmatter
+version: 1
+project:
+  id: f62cd6fd-ef00-416c-b6b3-9a3aae6840ff
+  title: Estimación de parámetros para modelos lineales
+  # description:
+  # keywords: []
+  # authors: []
+  # github: https://github.com/jupyter-book/mystmd-quickstart
+  # To autogenerate a Table of Contents, run "myst init --write-toc"
+site:
+  template: book-theme
+  options:
+  #   favicon: favicon.ico
+  #   logo: site_logo.png
+    logo: './images/oscope_small.png'
+    logo_text: 'Curso estimación de parámetros'
+    hide_footer_links: True
